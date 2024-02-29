@@ -2,7 +2,7 @@ repo_name: 2lambda123/LDSO
 report_id: 648de2e9f4ca4d297dc5656a4b96b2e3
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:55:29+00:00'
+timestamp: '2024-02-29T19:12:30+00:00'
 requested_by: NikolausDemmel
 provider: github
 branch: master
@@ -20,7 +20,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/LDSO
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
